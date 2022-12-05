@@ -1,0 +1,12 @@
+body {
+  background-color: $black-med;
+}
+
+.container-body {
+  display: flex;
+  min-height: 100vh;
+  // background-color: $black-med;
+  // width: 100%;
+  padding: 0px;
+  margin: 0px;
+}

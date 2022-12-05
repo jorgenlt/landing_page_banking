@@ -1,0 +1,14 @@
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  height: 75px;
+
+  background: $black-dark;
+  a {
+    color: $green-dark;
+
+    &:hover {
+      color: $green-light;
+    }
+  }
+}
